@@ -1,0 +1,13 @@
+customer_id;name;region;signup_date
+1;Anna Kovacs;North;2023-09-04
+2;Bence Toth;South;2023-07-12
+3;Csilla Nagy;East;2023-10-05
+4;Daniel Szabo;East;2023-02-09
+5;Eszter Kiss;West;2023-06-09
+6;Ferenc Varga;North;2023-06-10
+7;Greta Horvath;North;2023-10-20
+8;Hanna Molnar;South;2023-02-07
+9;Istvan Farkas;North;2023-09-15
+10;Julia Balogh;West;2023-12-03
+11;Kristof Papp;North;2023-07-01
+12;Lilla Juhasz;North;2023-10-24
